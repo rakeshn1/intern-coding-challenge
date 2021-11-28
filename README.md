@@ -24,7 +24,7 @@ Requirements: Node, Git
 Open localhost:3000 in the browser, the app will send a GET request to the backend to retrieve ticket data. 
 The data from the backend will be listed in a table with 10 rows per page.
 
-Click on a ticket to display additional details. Click on 'x' button or anywhere other than the modal to close..
+Click anywhere on a ticket row to display additional details related to that ticket. Click on 'x' button or anywhere other than the modal to close..
 
 The tickets are paginated with 10 tickets per page and click on arrow button to navigate to other pages.
 Click on 'down arrow' at the bottom of the page to change the number of tickets to view per page.

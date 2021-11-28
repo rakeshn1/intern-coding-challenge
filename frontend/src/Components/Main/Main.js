@@ -16,7 +16,7 @@ import { BACKEND_HOST, BACKEND_PORT } from "../../config";
 import Receipt from "../Receipt/Receipt";
 
 const Main = () => {
-    const [rowsPerPage, setRowsPerPage] = useState(5);
+    const [rowsPerPage, setRowsPerPage] = useState(25);
     const [page, setPage] = useState(0);
     const [open, setOpen] = useState(false);
     const [orderShow, setOrderShow] = useState({});

@@ -1,0 +1,7 @@
+{
+    "host" : "localhost",
+    "port" : 5676,
+    "url" : "https://<subdomain>.zendesk.com",
+    "email": "<email>",
+    "token": "<token>"
+}

@@ -1,0 +1,27 @@
+.Header {
+    padding: 1px;
+    margin: -1px;
+    box-shadow: 0 0 16px rgba(38, 38, 38, 0.16);
+    position: fixed;
+    top: 0;
+    width: calc(100% + 1px);
+    z-index: 10;
+    background: var(--white);
+}
+
+.Header__wrapper {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 10px;
+}
+
+.Header__logo-wrapper {
+    padding-left: 40px;
+    display: flex;
+}
+
+.Header__logo {
+    width: 170px;
+    display: block;
+    background-size: contain;
+}

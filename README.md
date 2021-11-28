@@ -2,7 +2,8 @@
 
 ## Installation & Usage
 Requirements: Node, Git
-Instructions to start
+
+### Instructions to start
 1. Frontend:
   - Navigate to frontend/ folder
   - execute 'npm install'
